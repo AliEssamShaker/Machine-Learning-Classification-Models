@@ -1,6 +1,6 @@
 # Machine-Learning-ClassificationTools-RealWorldData
 
-This is a comparison between some Machine Learning classification tools and their accuracy results.
+This is a comparison between some Machine Learning classification(supervised learning) tools and their accuracy results.
 
 The data set (in the Data.csv file) is a real world data set that I pulled from the UCI machine learning repository and this data set is about breast cancer.
 Each row in this data set represents a patient and for every patient we have the following independent variables(features), Sample Code number,
